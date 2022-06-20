@@ -46,11 +46,6 @@ html5lib==1.1
 idna==3.1
 importlib-metadata==4.11.4
 jsonfield==3.1.0
-Kivy==2.1.0
-kivy-deps.angle==0.3.2
-kivy-deps.glew==0.3.1
-kivy-deps.sdl2==0.4.5
-Kivy-Garden==0.1.5
 lxml==4.8.0
 Markdown==3.3.7
 multidict==6.0.2
